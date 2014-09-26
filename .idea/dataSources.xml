@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1070083504">
+    <data-source source="LOCAL" name="defaultPersistenceUnit" uuid="ec7d53a0-4b0a-4050-9f8c-7325e18f9441">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost:1433;databaseName=YSJJ</jdbc-url>
+      <user-name>sa</user-name>
+      <user-password>dfd9dfcb</user-password>
+      <libraries>
+        <library>
+          <url>file://D:\Program Files\apache-maven-3.1.1\.m2\repository\com\microsoft\sqlserver\sqljdbc3\4.0\sqljdbc3-4.0.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

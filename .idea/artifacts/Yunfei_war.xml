@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Yunfei:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Yunfei.war">
+      <element id="artifact" artifact-name="Yunfei:war exploded" />
+    </root>
+  </artifact>
+</component>
