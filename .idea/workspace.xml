@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a521fbd3-d8cb-4ea7-b5df-06a107657286" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/报价系统分析.doc" afterPath="$PROJECT_DIR$/doc/报价系统分析.doc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a521fbd3-d8cb-4ea7-b5df-06a107657286" name="Default" comment="" />
     <ignored path="Yunfei.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -604,12 +599,12 @@
       <workItem from="1429711745096" duration="1500000" />
       <workItem from="1429894918046" duration="685000" />
       <workItem from="1430012397410" duration="3521000" />
-      <workItem from="1430067448244" duration="165000" />
+      <workItem from="1430067448244" duration="351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66005000" />
+    <option name="totallyTimeSpent" value="66191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="842" extended-state="6" />
